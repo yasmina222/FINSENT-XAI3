@@ -298,7 +298,7 @@ def main():
         with viz_col1:
             st.markdown('<p class="method-title">Attention Mechanism</p>', unsafe_allow_html=True)
             attention_img = create_attention_visualization(attention_data)
-            st.image(attention_img, use_column_width=True)
+            st.image(attention_img, use_container_width=True)
             
             # Top attention tokens
             st.markdown("**Top Attention Focus:**")
@@ -308,7 +308,7 @@ def main():
         with viz_col2:
             st.markdown('<p class="method-title">LIME Explanation</p>', unsafe_allow_html=True)
             lime_img = create_lime_visualization(lime_result)
-            st.image(lime_img, use_column_width=True)
+            st.image(lime_img, use_container_width=True)
             
             # Top LIME features
             st.markdown("**Top LIME Features:**")
