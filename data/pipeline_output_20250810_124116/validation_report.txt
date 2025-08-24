@@ -1,0 +1,29 @@
+DATA QUALITY VALIDATION REPORT
+==================================================
+
+Generated: 2025-08-10 12:41:38
+
+
+OVERALL STATISTICS:
+Total articles processed: 7
+Valid articles: 3 (42.9%)
+Invalid articles: 4
+
+
+RELEVANCE METRICS:
+Average UK relevance: 0.56
+Average finance relevance: 0.20
+
+
+SOURCE DISTRIBUTION:
+  Financial Times: 7 articles
+
+
+INVALIDATION REASONS:
+  not_finance_relevant: 4 occurrences
+  not_uk_relevant: 2 occurrences
+
+
+RECOMMENDATIONS:
+⚠️  Low validity rate - review scraping logic
+⚠️  Low finance relevance - refine content filters

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "scraped_at": "2025-08-10T12:41:38.770677",
+    "total_articles": 7,
+    "sources": [
+      "Financial Times"
+    ],
+    "scraper_version": "1.0"
+  },
+  "articles": [
+    {
+      "title": "Diageo raises cost-cutting target as US tariffs bite",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MSnQ3blZpSFU0ZHpkQjRyUlFrNkJxeHVzTEIyd1V6NFlUVWpGMnd4aEpJLUxGd1pZeGw3dVpQWFpuRGl5X0V6SWJJY3YzR053VnFRQ1dISklfZF9KQ3FnOEYtdVVUSkI5YTI2ZG9zSFU?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-10T12:41:34.710407",
+      "category": "uk_finance"
+    },
+    {
+      "title": "BP makes its largest oil and gas discovery in 25 years off coast of Brazil",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MLUlSRDl4QWp0aDhDTEJ4cW1LLU4zdEdjaURZbVJFOXBHUFRnZ3VxWms5MldxV1B2ZUFkaHRIZEYxQkJ6SzA4ZFYtNUZtb3AyN1l3UjJwOXl4UkpaZ1p5ZG5tQ2tPZDV6UnprWkQxQ1Y?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-10T12:41:34.710602",
+      "category": "uk_finance"
+    },
+    {
+      "title": "As it happened: Bank of England cuts rates to 4% in tight vote",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ieDRQbGJyb19WTVZ4UGlWcHdMbXBXUGFUTmExZFNHMjlDVndYUDluM1B0NUZzY0x6aXgtLTZteWNYNktlNVlaeTVNMVd1eERKUGc2ZXVyS0c1T0FJbFFXc184eUx0eWdXQ3ZNSzhsbkU?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-10T12:41:34.710706",
+      "category": "uk_finance"
+    },
+    {
+      "title": "AstraZeneca PLC, AZN:LSE summary",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPOGh2cVBHZW92TXJpZGJ6TUpkTGRWN0lWLWZwamtZNE92SkVKeFhMU0NldjZtMmxrWlNyNjBZNUJRNmdZU0JzeGNuQS1uT3ltMGw3OWxBYVNPbWhWRFZvcXVmLTMyTFhKVkZSM2dnblZIdw?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-10T12:41:34.710866",
+      "category": "uk_finance"
+    },
+    {
+      "title": "FTSE 100 hits 9,000 points for first time",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4RVNNU2F6QUhvRjFxM2pfNVFkcWxnMXR2Rlk5WFFuWlRaMERNZlBGTDVQYjVOaWVZak5HeHM4N00tdGFVZUNYTkhpVVBCcWt1Rk92WEVnbE5GcExmM1ZjWm1PTjFmZFJqQVhoZl9hTnM?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-10T12:41:34.710917",
+      "category": "uk_finance"
+    },
+    {
+      "title": "FTSE UK indices to include shares priced in foreign currencies",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4taEFuRGhTYmdTYjVDNlQzcVpBbmdUaWJRWFFrT2xXUVN0OVJkclA4dmRfeXBsaXh5Z0szc2IxMVI0Z1JtOEVMS1dIY3dyNUtjRGZRVGQxVENKYUVoVkVRenl6T25JQ2dxMjdYcnNXMWU?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-10T12:41:34.710945",
+      "category": "uk_finance"
+    },
+    {
+      "title": "FTSE 100 extends slide as fears over UK economy grow",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40amRucVNLeDdpLWpxRXYwUWhrZVhlTGhJOGR6SXYtTEZmV2Z4d1pFaTFVNVpHZElCY1p0cTdKcWJ3S3NCWDYwY0xJanJ1aGMxeXdKTDhGTmZmSy1lYTBnUUktbnlaVVR5V2FpWGhyVEQ?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-10T12:41:34.710977",
+      "category": "uk_finance"
+    }
+  ]
+}

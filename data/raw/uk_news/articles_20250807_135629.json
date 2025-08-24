@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "scraped_at": "2025-08-07T13:56:29.307499",
+    "total_articles": 6,
+    "sources": [
+      "Financial Times"
+    ],
+    "scraper_version": "1.0"
+  },
+  "articles": [
+    {
+      "title": "Diageo raises cost-cutting target as US tariffs bite",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MSnQ3blZpSFU0ZHpkQjRyUlFrNkJxeHVzTEIyd1V6NFlUVWpGMnd4aEpJLUxGd1pZeGw3dVpQWFpuRGl5X0V6SWJJY3YzR053VnFRQ1dISklfZF9KQ3FnOEYtdVVUSkI5YTI2ZG9zSFU?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-07T13:56:25.232895",
+      "category": "uk_finance"
+    },
+    {
+      "title": "UK interest rates: Bank of England cuts rates to 4% in tight vote",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ieDRQbGJyb19WTVZ4UGlWcHdMbXBXUGFUTmExZFNHMjlDVndYUDluM1B0NUZzY0x6aXgtLTZteWNYNktlNVlaeTVNMVd1eERKUGc2ZXVyS0c1T0FJbFFXc184eUx0eWdXQ3ZNSzhsbkU?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-07T13:56:25.232977",
+      "category": "uk_finance"
+    },
+    {
+      "title": "BP makes its largest oil and gas discovery in 25 years off coast of Brazil",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MLUlSRDl4QWp0aDhDTEJ4cW1LLU4zdEdjaURZbVJFOXBHUFRnZ3VxWms5MldxV1B2ZUFkaHRIZEYxQkJ6SzA4ZFYtNUZtb3AyN1l3UjJwOXl4UkpaZ1p5ZG5tQ2tPZDV6UnprWkQxQ1Y?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-07T13:56:25.233025",
+      "category": "uk_finance"
+    },
+    {
+      "title": "Diageo’s new chief signals a spirited turnaround plan",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52d0hrTmRVRFQwMVJQWDhkejVqNE85SFV0dUdQNjVLZGNYbnRkOWxoTG56S3UtVnVqVUc1TDR2cjBFOGVvMVFYSGZ3ZWhsc2ppS041ZThnWmtLekUwd19JdGdXMnk4M2tDaUdIUVZKcl8?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-07T13:56:25.233113",
+      "category": "uk_finance"
+    },
+    {
+      "title": "AstraZeneca PLC, AZN:LSE summary",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPOGh2cVBHZW92TXJpZGJ6TUpkTGRWN0lWLWZwamtZNE92SkVKeFhMU0NldjZtMmxrWlNyNjBZNUJRNmdZU0JzeGNuQS1uT3ltMGw3OWxBYVNPbWhWRFZvcXVmLTMyTFhKVkZSM2dnblZIdw?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-07T13:56:25.233153",
+      "category": "uk_finance"
+    },
+    {
+      "title": "Vanguard S&P 500 UCITS ETF, VUSA:LSE:GBP summary",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11ZkFlMHNnamRzX3U0VXFfTS02ekFKS1dtUVZoSFdXTFNfQTRQLVJHMjRPS3hfRUlnaWI1UmlxSXdCYlViOFNRSHRKb0pnZ2RDMmhzNDgxMnlwUnZFN1VueHY2TzZ2VXdwUUZiRmFHYVEzeHM?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-07T13:56:25.233186",
+      "category": "uk_finance"
+    }
+  ]
+}

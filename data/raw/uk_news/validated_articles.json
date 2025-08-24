@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "validation_date": "2025-08-10T12:41:38.776660",
+    "total_articles": 3,
+    "avg_uk_relevance": 0.5555555555555555,
+    "avg_finance_relevance": 0.20000000000000004,
+    "sources": [
+      "Financial Times"
+    ]
+  },
+  "articles": [
+    {
+      "title": "As it happened: Bank of England cuts rates to 4% in tight vote",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ieDRQbGJyb19WTVZ4UGlWcHdMbXBXUGFUTmExZFNHMjlDVndYUDluM1B0NUZzY0x6aXgtLTZteWNYNktlNVlaeTVNMVd1eERKUGc2ZXVyS0c1T0FJbFFXc184eUx0eWdXQ3ZNSzhsbkU?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-10T12:41:34.710706",
+      "category": "uk_finance",
+      "uk_relevance_score": 0.3333333333333333,
+      "finance_relevance_score": 0.2
+    },
+    {
+      "title": "FTSE UK indices to include shares priced in foreign currencies",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4taEFuRGhTYmdTYjVDNlQzcVpBbmdUaWJRWFFrT2xXUVN0OVJkclA4dmRfeXBsaXh5Z0szc2IxMVI0Z1JtOEVMS1dIY3dyNUtjRGZRVGQxVENKYUVoVkVRenl6T25JQ2dxMjdYcnNXMWU?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-10T12:41:34.710945",
+      "category": "uk_finance",
+      "uk_relevance_score": 0.6666666666666666,
+      "finance_relevance_score": 0.2
+    },
+    {
+      "title": "FTSE 100 extends slide as fears over UK economy grow",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40amRucVNLeDdpLWpxRXYwUWhrZVhlTGhJOGR6SXYtTEZmV2Z4d1pFaTFVNVpHZElCY1p0cTdKcWJ3S3NCWDYwY0xJanJ1aGMxeXdKTDhGTmZmSy1lYTBnUUktbnlaVVR5V2FpWGhyVEQ?oc=5",
+      "source": "Financial Times",
+      "scraped_at": "2025-08-10T12:41:34.710977",
+      "category": "uk_finance",
+      "uk_relevance_score": 0.6666666666666666,
+      "finance_relevance_score": 0.2
+    }
+  ]
+}

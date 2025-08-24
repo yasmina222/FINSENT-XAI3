@@ -1,0 +1,20 @@
+2025-08-10 12:41:29,750 - FINSENTPipeline - INFO - ============================================================
+2025-08-10 12:41:29,750 - FINSENTPipeline - INFO - STARTING FINSENT-XAI PIPELINE
+2025-08-10 12:41:29,750 - FINSENTPipeline - INFO - ============================================================
+2025-08-10 12:41:29,750 - FINSENTPipeline - INFO - 
+[Step 1/5] Data Collection
+2025-08-10 12:41:29,750 - FINSENTPipeline - INFO - Running UK news scraper...
+2025-08-10 12:41:38,773 - FINSENTPipeline - WARNING - Only collected 7 articles, minimum is 100
+2025-08-10 12:41:38,773 - FINSENTPipeline - INFO - Collected 7 articles
+2025-08-10 12:41:38,773 - FINSENTPipeline - INFO - 
+[Step 2/5] Data Validation
+2025-08-10 12:41:38,774 - FINSENTPipeline - INFO - Validating scraped data...
+2025-08-10 12:41:38,777 - FINSENTPipeline - INFO - Validated 3/7 articles (42.9% valid)
+2025-08-10 12:41:38,777 - FINSENTPipeline - INFO - 
+[Step 3/5] Model Training
+2025-08-10 12:41:38,777 - FINSENTPipeline - INFO - Skipping training - using base FinBERT model
+2025-08-10 12:41:38,777 - FINSENTPipeline - INFO - 
+[Step 4/5] Model Evaluation
+2025-08-10 12:41:38,777 - FINSENTPipeline - INFO - Running XAI method comparison...
+2025-08-10 12:41:39,422 - FINSENTPipeline - ERROR - Evaluation failed: expected an indented block after function definition on line 351 (attention_extractor.py, line 353)
+2025-08-10 12:41:39,422 - FINSENTPipeline - ERROR - Pipeline failed: expected an indented block after function definition on line 351 (attention_extractor.py, line 353)
